@@ -11,3 +11,6 @@ Set crontab
 ## unlimited.sh
 Resolove the problem "too many open files" when debug program on MacOSX
 Set alias fklimit = ". ~/unlimited.sh" 
+
+## fix_npm_missing.sh
+Resolve the problem "npm dependency packages missing"
