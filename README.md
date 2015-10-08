@@ -14,3 +14,7 @@ Set alias fklimit = ". ~/unlimited.sh"
 
 ## fix_npm_missing.sh
 Resolve the problem "npm dependency packages missing"
+
+## alias
+Open file in chrome
+alias chrome='open -a "Google Chrome"'
